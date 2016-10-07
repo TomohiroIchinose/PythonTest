@@ -6,7 +6,7 @@ public class Hajimete {
 	// removed
         System.out.println("Hello, world.");
 
-	// TODO #3
+	// removed
         System.out.println("Good afternoon, world.");
 
 	// removed
