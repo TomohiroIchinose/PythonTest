@@ -3,7 +3,7 @@ public class Hajimete {
 	// TODO #1
 	System.out.println("Good morning, world.");
 
-	// TODO #2
+	// removed
         System.out.println("Hello, world.");
 
 	// TODO #3
