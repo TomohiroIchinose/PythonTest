@@ -14,5 +14,7 @@ public class Hajimete {
 
 	// TODO #5X
         System.out.println("Good night, world.");
+
+	// TODO #6
     }
 }
