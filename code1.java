@@ -4,7 +4,6 @@ public class Hajimete {
 	System.out.println("Good morning, world.");
 
 	// removed
-        System.out.println("Hello, world.");
 
 	// removed
         System.out.println("Good afternoon, world.");
