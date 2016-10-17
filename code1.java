@@ -12,7 +12,7 @@ public class Hajimete {
 	// removed
         System.out.println("Good evening, world.");
 
-	// TODO #5
+	// TODO #5X
         System.out.println("Good night, world.");
     }
 }
