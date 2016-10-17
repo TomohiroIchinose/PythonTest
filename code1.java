@@ -1,6 +1,6 @@
 public class Hajimete {
     public static void main(String[] args){
-	// hack #1
+	// TODO #1
 	System.out.println("Good morning, world.");
 
 	// removed
